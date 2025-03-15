@@ -33,7 +33,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on real-world **MERN stack applications**
 - 📱 Building cross-platform apps with **Flutter**
-- 🕹️ Exploring **Game Development with Python (Pygame)**
+- 🕹️ Used to explore **Game Development with Python (Pygame)**
 - 🌱 Learning advanced **JavaScript (ES6+)** and **React/Redux**
 - 📈 Focused on **Web Optimization & Performance Best Practices**
 
