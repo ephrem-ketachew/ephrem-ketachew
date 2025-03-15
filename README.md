@@ -28,11 +28,6 @@
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>
 </div>
 
-<p align="center">
-  Thanks for stopping by! Let's collaborate and build something amazing. 🚀
-</p>
-I'm a passionate **Software Engineer** currently pursuing my degree in **Software Engineering at Bahir Dar University (4th Year)**. I specialize in **Full-Stack Web Development (MERN)**, **Flutter Mobile Development**, and **C++ Programming**. I enjoy crafting clean, efficient, and user-centric software experiences.
-
 ---
 
 ## 🚀 About Me
