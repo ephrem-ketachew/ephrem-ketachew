@@ -3,9 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
   </h1>
   
-  <h1><strong><span style="color:#00ffff">Hello there, I'm <span style="color:#FF69B4">Ephrem Ketachew</span></span></strong></h1>
-  <p><strong style="font-size:16px; color:#e0e0e0">I'm a passionate Software Engineer who loves building efficient systems and intuitive user experiences across web and mobile platforms.</strong></p>
-  <p><strong style="font-size:16px; color:#e0e0e0">With a solid background in problem-solving, data structures, and algorithms, I aim to create impactful digital solutions that empower users and businesses alike.</strong></p>
+  <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
+<h3 style="color:#FFD700;">Software Engineer | Flutter App Developer 📱 | MERN Stack Developer 💻 | Crafting Digital Solutions ✨</h3>
+
+<p style="font-size:16px; color:#D3D3D3;">
+I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.  
+With a strong foundation in **software development, data structures, and algorithms**, I create digital solutions that drive impact and innovation.
+</p>
 </div>
 
 ---
