@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Enthusiast" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -62,15 +62,6 @@ I'm a passionate **Software Engineer** currently pursuing my degree in **Softwar
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2C8EBB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typing%20Skills-00A5E0?style=for-the-badge&logo=monkeytype&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EphremKetachew&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EphremKetachew&theme=radical&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EphremKetachew&layout=compact&theme=radical"/>
 </p>
 
 ---
