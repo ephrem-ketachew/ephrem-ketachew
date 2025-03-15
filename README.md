@@ -28,23 +28,6 @@
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>
 </div>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EphremKetachew&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EphremKetachew&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EphremKetachew&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Let's Connect!
-- 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
-- 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
-
----
-
 <p align="center">
   Thanks for stopping by! Let's collaborate and build something amazing. 🚀
 </p>
