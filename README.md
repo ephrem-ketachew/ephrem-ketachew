@@ -2,12 +2,6 @@
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
   </h1>
-</div>
-
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+there!+I'm+Ephrem+Ketachew+🚀+Full-Stack+Developer+%7C+Flutter+Enthusiast+%7C+Software+Engineer" alt="Typing SVG" />
-  </h1>
   
   <h3><strong><span style="color:#00ffff">Hi, I'm <span style="color:#FF69B4">Ephrem Ketachew</span></span></strong></h3>
   <p><strong style="font-size:16px; color:#e0e0e0">I'm a passionate Software Engineer who loves building efficient systems and intuitive user experiences across web and mobile platforms.</strong></p>
