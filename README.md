@@ -100,7 +100,7 @@ With a strong foundation in **software development, data structures, and algorit
 ## 📫 Let's Connect!
 - 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
 - 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
-
+- 🧠 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
 ---
 
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
