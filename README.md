@@ -4,7 +4,7 @@
   </h1>
   
   <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
-<h3 style="color:#FFD700;">Software Engineer | Flutter App Developer 📱 | MERN Stack Developer 💻 | Crafting Digital Solutions ✨</h3>
+<h3 style="color:#FFD700;">Software Engineer 🚀 | UI/UX Designer 🎨 | Flutter Developer 📱 | Web Developer 💻</h3>
 
 <p style="font-size:16px; color:#D3D3D3;">
 I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.  
