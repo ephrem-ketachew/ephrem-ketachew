@@ -30,8 +30,10 @@ With a strong foundation in **software development, data structures, and algorit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
 </div>
+
 
 
 ---
