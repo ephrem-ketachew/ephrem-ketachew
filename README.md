@@ -40,11 +40,12 @@ With a strong foundation in <b>software development, data structures, and algori
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on real-world **MERN stack applications**
+- 🎨 Designing complete and polished **UI/UX projects** with Figma
+- 💻 Working on an **intern project** involving **Figma, Node.js, Flutter, and MongoDB**
 - 📱 Building cross-platform apps with **Flutter**
-- 🕹️ Used to explore **Game Development with Python (Pygame)**
-- 🌱 Learning advanced **JavaScript (ES6+)** and **React/Redux**
+- 🎩 Explored **Game Development with Python (Pygame)**
 - 📈 Focused on **Web Optimization & Performance Best Practices**
+- 🧐 Actively working on **Data Structures, Algorithms, and Problem Solving**
 
 ---
 
@@ -100,7 +101,8 @@ With a strong foundation in <b>software development, data structures, and algori
 ## 📫 Let's Connect!
 - 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
 - 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
-- 🧠 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
+- 🧑‍🧬 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
+- 📄 [My CV](https://drive.google.com/file/d/1vZBhlj4E9xPx04G_kYgvHF6gUbQiEkUs/view?usp=sharing)
 ---
 
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
