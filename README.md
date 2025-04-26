@@ -8,7 +8,7 @@
 
 <p style="font-size:16px; color:#D3D3D3;">
 I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.  
-With a strong foundation in <b>software development, data structures, and algorithms/>, I create digital solutions that drive impact and innovation.
+With a strong foundation in <b>software development, data structures, and algorithms</b>, I create digital solutions that drive impact and innovation.
 </p>
 </div>
 
