@@ -13,9 +13,11 @@
 
   <br>
 
-  <blockquote style="font-size:18px; color:#A9A9A9; font-style:italic; border-left: 4px solid #00BFFF; padding-left: 10px; margin: 20px;">
-    Lost in it. Waste my days on it. Suffer in it. That's what I do.
-  </blockquote>
+  <div style="background-color:#1E1E1E; padding:15px; border-radius:10px; width:fit-content; margin:auto;">
+    <p style="font-size:18px; color:#00BFFF; font-style:italic; font-weight:bold;">
+      Lost in it. Waste my days on it. Suffer in it. That's what I do.
+    </p>
+  </div>
 </div>
 
 ---
