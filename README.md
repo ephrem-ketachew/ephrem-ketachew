@@ -4,15 +4,22 @@
   </h1>
   
   <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
-<h3 style="color:#FFD700;">Software Engineer 🚀 | UI/UX Designer 🎨 | Flutter Developer 📱 | Web Developer 💻</h3>
+  <h3 style="color:#FFD700;">Software Engineer 🚀 | UI/UX Designer 🎨 | Flutter Developer 📱 | Web Developer 💻</h3>
 
-<p style="font-size:16px; color:#D3D3D3;">
-I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.  
-With a strong foundation in <b>software development, data structures, and algorithms</b>, I create digital solutions that drive impact and innovation.
-</p>
+  <p style="font-size:16px; color:#D3D3D3;">
+    I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.<br>
+    With a strong foundation in <b>software development, data structures, and algorithms</b>, I create digital solutions that drive impact and innovation.
+  </p>
+
+  <br>
+
+  <blockquote style="font-size:18px; color:#A9A9A9; font-style:italic; border-left: 4px solid #00BFFF; padding-left: 10px; margin: 20px;">
+    Lost in it. Waste my days on it. Suffer in it. That's what I do.
+  </blockquote>
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack - Languages and Tools
 <div align="center">
