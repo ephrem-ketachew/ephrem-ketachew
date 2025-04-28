@@ -13,10 +13,11 @@
 
   <br>
 
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Lost+in+it.+Waste+my+days+on+it.+Suffer+in+it.+That's+what+I+do." alt="Typing SVG" />
-  </h3>
+  <blockquote style="font-size:18px; color:#A9A9A9; font-style:italic; border-left: 4px solid #00BFFF; padding-left: 10px; margin: 20px;">
+    Lost in it. Waste my days on it. Suffer in it. That's what I do.
+  </blockquote>
 </div>
+
 
 ---
 
