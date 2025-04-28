@@ -13,11 +13,9 @@
 
   <br>
 
-  <div style="background-color:#1E1E1E; padding:15px; border-radius:10px; width:fit-content; margin:auto;">
-    <p style="font-size:18px; color:#00BFFF; font-style:italic; font-weight:bold;">
-      Lost in it. Waste my days on it. Suffer in it. That's what I do.
-    </p>
-  </div>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Lost+in+it.+Waste+my+days+on+it.+Suffer+in+it.+That's+what+I+do." alt="Typing SVG" />
+  </h3>
 </div>
 
 ---
