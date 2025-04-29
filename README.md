@@ -14,7 +14,7 @@
   <br>
 
   <blockquote style="font-size:18px; color:#A9A9A9; font-style:italic; border-left: 4px solid #00BFFF; padding-left: 10px; margin: 20px;">
-    Lost in it. Waste my days on it. Suffer in it. That's what I do.
+    Ten hours. One bug. One line of code. Welcome to software engineering—I call it life.
   </blockquote>
 </div>
 
