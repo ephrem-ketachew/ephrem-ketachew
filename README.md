@@ -48,15 +48,17 @@
 
 ---
 
-## 🚀 About Me
-- 🎨 Designing complete and polished **UI/UX projects** with Figma
-- 💻 Working on an **intern project** involving **Figma, Node.js, Flutter, and MongoDB**
-- 📱 Building cross-platform apps with **Flutter**
-- 🎩 Explored **Game Development with Python (Pygame)**
-- 📈 Focused on **Web Optimization & Performance Best Practices**
-- 🧐 Actively working on **Data Structures, Algorithms, and Problem Solving**
+## 🚀 Areas of Expertise
 
----
+* **Design & Development:**
+    * **UI/UX Design:** Crafting intuitive and polished user experiences with Figma.
+    * **Full-Stack Web & Mobile Development:** Applying technologies like **Node.js, Flutter, and MongoDB** in real-world projects, including an active internship.
+    * **Cross-Platform Mobile Development:** Specializing in building robust applications with **Flutter**.
+
+* **Technical Foundations:**
+    * **Data Structures & Algorithms:** Continuously honing skills in algorithmic problem solving and competitive programming.
+    * **Web Optimization:** Focused on implementing performance best practices for efficient web applications.
+    * **Game Development:** Practical experience in Python game development using Pygame.
 
 ## 🧠 Tech Stack
 
