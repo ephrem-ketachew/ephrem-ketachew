@@ -6,10 +6,11 @@
   <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
   <h3 style="color:#FFD700;">Software Engineering Student | Full-Stack Web Developer</h3>
 
-  <p style="font-size:16px; color:#D3D3D3;">
-    I specialize in building efficient, scalable, and user-friendly applications across web and mobile platforms.<br>
-    With a strong foundation in <b>software development, data structures, and algorithms</b>, I create digital solutions that drive impact and innovation.
-  </p>
+  <p style="font-size: 16px; color: #D3D3D3; line-height: 1.6;">
+        I'm passionate about crafting efficient, scalable, and intuitive applications for both web and mobile platforms.
+        With a robust foundation in <b>software development principles, data structures, and algorithms</b>, I design and build
+        digital solutions that drive impact and innovation.
+    </p>
 
   <br>
 
