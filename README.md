@@ -111,16 +111,16 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ephremketachew&show_icons=true&theme=radical&hide_border=true" alt="Ephrem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=radical&hide_border=true" alt="Ephrem's GitHub Stats" width="48%" />
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ephremketachew&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ephrem-ketachew&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephremketachew&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
   <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ephremketachew&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
 
 </div>
 
