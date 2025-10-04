@@ -122,6 +122,9 @@
   <!-- Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
 
+  ![Ephrem's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ephrem-ketachew&theme=tokyo-night)
+
+
 </div>
 
 ---
