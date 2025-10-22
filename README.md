@@ -135,7 +135,7 @@
 - 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
 - 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
 - 🧑‍🧬 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
-- 📄 [My CV](https://drive.google.com/file/d/1vZBhlj4E9xPx04G_kYgvHF6gUbQiEkUs/view?usp=sharing)
+- 📄 [My CV](https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing)
 ---
 
 Thanks for stopping by! Let's collaborate and build something amazing. 🚀
