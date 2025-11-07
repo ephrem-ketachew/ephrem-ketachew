@@ -1,182 +1,142 @@
 <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
+  </h1>
+  
+  <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
+  <h3 style="color:#FFD700;">Software Engineering Student | Full-Stack Web Developer</h3>
 
-<!--
-TODO: Upload your circular company logo (preferably a PNG with a transparent background)
-to a repository (like a '.github' repo) and replace the 'src' link below.
-The styling will make it circular with a blue brand-color border.
--->
+  <p style="font-size: 16px; color: #D3D3D3; line-height: 1.6;">
+        I'm passionate about crafting efficient, scalable, and intuitive applications for both web and mobile platforms.
+        With a robust foundation in <b>software development principles, data structures, and algorithms</b>, I design and build
+        digital solutions that drive impact and innovation.
+    </p>
 
-<img src="https://www.google.com/search?q=https://media.licdn.com/dms/image/D4D0BAQHn-PINx_SVuA/company-logo_200_200/0/1715082156942/cc_tech_et_logo%3Fe%3D1738972800%26v%3Dbeta%26t%3Do1I-G2-hP_G-fF-g7O61n5D-qgXb1Z7n8rNlJ7J-1wA"
-alt="CC Tech ET Logo"
-style="border-radius: 50%; width: 150px; height: 150px; border: 3px solid #00BFFF; padding: 5px;" />
-
-
-
-
-
-<!-- Animated Typing SVG -->
-
-<img src="httpsd://https://www.google.com/search?q=readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26duration%3D3000%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DWelcome%2Bto%2BCC%2BTech%2BET%3BSame%2BTeam%252C%2BSame%2BDream!" alt="Typing SVG" />
-
-<!-- Tagline -->
-
-<h3 style="color: #FFD700;">
-Secure, Scalable, Intelligent Solutions for Tomorrow’s Challenges
-</h3>
-
-<!-- Company Description -->
-
-<p style="color: #D3D3D3; max-width: 650px; font-size: 16px; line-height: 1.6;">
-We are a team of security-first technology experts driving business transformation through secure software, protected cloud solutions, and enterprise-grade cybersecurity. Our mission is to empower businesses by delivering solutions that solve today’s problems and anticipate tomorrow’s needs.
-</p>
+  <br>
 
 </div>
 
-<div align="center" style="color: #00BFFF;">📊 Our Impact</div>
 
+---
+
+
+## 🛠️ Tech Stack - Languages and Tools
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Projects_Completed-10%252B-00BFFF%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="10+ Projects Completed"/>
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Happy_Clients-15%252B-00BFFF%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="15+ Happy Clients"/>
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Team_Members-15%252B-00BFFF%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="15+ Team Members"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" title="Pygame" width="70" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center" style="color: #00BFFF;">🚀 Our Core Services</div>
-
-<!-- Using an HTML table for a clean 2x2 grid layout -->
-
-<table align="center" border="0" cellpadding="15" cellspacing="0" style="width: 100%; max-width: 800px; border: 0px;">
-<tr style="border: 0px;">
-<!-- Cybersecurity -->
-<td align="center" valign="top" style="width: 50%; border: 0px; padding: 15px;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc%26theme%3Ddark" alt="Cybersecurity Icon" />
 
 
+---
 
+## 🚀 Areas of Expertise
 
-<strong style="font-size: 1.2em; color: #D3D3D3;">Cybersecurity</strong>
-<p style="color: #D3D3D3;">Advanced threat defenses, penetration testing, and data protection to safeguard your digital assets.</p>
-</td>
-<!-- Software Engineering -->
-<td align="center" valign="top" style="width: 50%; border: 0px; padding: 15px;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact%26theme%3Ddark" alt="Software Engineering Icon" />
+* **Design & Development:**
+    * **UI/UX Design:** Crafting intuitive and polished user experiences with Figma.
+    * **Full-Stack Web & Mobile Development:** Applying technologies like **Node.js, Flutter, and MongoDB** in real-world projects, including an active internship.
+    * **Cross-Platform Mobile Development:** Specializing in building robust applications with **Flutter**.
 
+* **Technical Foundations:**
+    * **Data Structures & Algorithms:** Continuously honing skills in algorithmic problem solving and competitive programming.
+    * **Web Optimization:** Focused on implementing performance best practices for efficient web applications.
+    * **Game Development:** Practical experience in Python game development using Pygame.
 
+## 🧠 Tech Stack
 
-
-<strong style="font-size: 1.2em; color: #D3D3D3;">Software Engineering</strong>
-<p style="color: #D3D3D3;">Agile development of high-quality, scalable custom software, web, and mobile applications.</p>
-</td>
-</tr>
-<tr style="border: 0px;">
-<!-- AI & Data Analytics -->
-<td align="center" valign="top" style="width: 50%; border: 0px; padding: 15px;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow%26theme%3Ddark" alt="AI & Data Analytics Icon" />
-
-
-
-
-<strong style="font-size: 1.2em; color: #D3D3D3;">AI & Data Analytics</strong>
-<p style="color: #D3D3D3;">AI-driven automation and analytics that turn raw data into actionable insights for growth.</p>
-</td>
-<!-- Multi-Cloud Solutions -->
-<td align="center" valign="top" style="width: 50%; border: 0px; padding: 15px;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws%26theme%3Ddark" alt="Multi-Cloud Solutions Icon" />
-
-
-
-
-<strong style="font-size: 1.2em; color: #D3D3D3;">Multi-Cloud Solutions</strong>
-<p style="color: #D3D3D3;">Flexible, secure, and cost-efficient cloud architectures across AWS, Azure, and Google Cloud.</p>
-</td>
-</tr>
-</table>
-
-<div align="center" style="color: #00BFFF;">🛠️ Our Technology Stack</div>
-
-<!-- Using skillicons.dev for animated, dark-theme-friendly icons -->
-
-<div align="center">
-
-<p style="color: #D3D3D3;"><strong>Programming Languages</strong></p>
+### 🔣 Programming Languages
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,py,java,go,swift%26theme%3Ddark" alt="Programming Languages"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p style="color: #D3D3D3;"><strong>Frontend & Mobile</strong></p>
+### 🖼️ Frontend Development
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,react,angular,vue,flutter,kotlin%26theme%3Ddark" alt="Frontend & Mobile"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-6699CC?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p style="color: #D3D3D3;"><strong>Backend</strong></p>
+### 🖥️ Backend Development
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,django,spring,fastapi%26theme%3Ddark" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p style="color: #D3D3D3;"><strong>Databases</strong></p>
+### 🗃️ Databases
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,mysql,redis%26theme%3Ddark" alt="Databases"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
-<p style="color: #D3D3D3;"><strong>Cloud & DevOps</strong></p>
+### 🔧 Tools & Frameworks
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,azure,gcp,docker,kubernetes,git,githubactions%26theme%3Ddark" alt="Cloud & DevOps"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-</div>
+### 📚 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2C8EBB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typing%20Skills-00A5E0?style=for-the-badge&logo=monkeytype&logoColor=white"/>
+</p>
 
-<div align="center" style="color: #00BFFF;">✨ Featured Projects</div>
+---
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<!--
-TODO: Replace 'cctech-et' with your actual GitHub organization name.
-Replace 'gnibe-platform' and 'kech-app' with your 2-3 most important repository names.
--->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dcctech-et%26repo%3Dgnibe-platform%26theme%3Dtokyo_night%26title_color%3D00BFFF%26text_color%3DD3D3D3%26icon_color%3D00BFFF%26border_color%3D00BFFF%26border_radius%3D10" alt="GnIbe Platform Project"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=radical&hide_border=true" alt="Ephrem's GitHub Stats" width="48%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ephrem-ketachew&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
+
+  ![Ephrem's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ephrem-ketachew&theme=tokyo-night)
 
 
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dcctech-et%26repo%3Dkech-app%26theme%3Dtokyo_night%26title_color%3D00BFFF%26text_color%3DD3D3D3%26icon_color%3D00BFFF%26border_color%3D00BFFF%26border_radius%3D10" alt="Kech App Project"/>
 </div>
 
-<div align="center" style="color: #00BFFF;">📈 Organization Insights</div>
+---
 
-<div align="center">
-<!--
-TODO: Replace 'cctech-et' with your actual GitHub organization name.
--->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcctech-et%26layout%3Dcompact%26theme%3Dtokyo_night%26hide_border%3Dtrue%26title_color%3D00BFFF%26text_color%3DD3D3D3%26bg_color%3D1A1B27%26langs_count%3D8%26border_radius%3D10" alt="Top Languages" width="45%"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcctech-et%26show_icons%3Dtrue%26theme%3Dtokyo_night%26hide_border%3Dtrue%26title_color%3D00BFFF%26icon_color%3D00BFFF%26text_color%3DD3D3D3%26bg_color%3D1A1B27%26border_radius%3D10" alt="CC Tech ET GitHub Stats" width="45%"/>
-</div>
+---
 
-<div align="center" style="color: #00BFFF;">📫 Let's Connect!</div>
+## 📫 Let's Connect!
+- 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
+- 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
+- 🧑‍🧬 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
+- 📄 [My CV](https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing)
+---
 
-<div align="center">
-<p style="color: #D3D3D3; font-size: 16px;">We're always ready to build the next big thing. Let's innovate together.</p>
+Thanks for stopping by! Let's collaborate and build something amazing. 🚀
 
-<a href="https://cctechet.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-cctechet.com-00BFFF%3Fstyle%3Dfor-the-badge%26logo%3Dwebsite%26logoColor%3Dwhite" alt="Website"/>
-</a>
-&nbsp;
-<a href="https://www.google.com/search?q=https://www.linkedin.com/company/cc-tech-et/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-CC_Tech_ET-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:info@cctechet.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-info%40cctechet.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-&nbsp;
-<a href="tel:+251901339900">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Phone-%2B251_901_339_900-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="Phone"/>
-</a>
-</div>
-
-<div align="center">
-<!-- Animated Waving Footer Capsule -->
-<img src="httpshttps://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00BFFF%26fontColor%3DFFD700%26height%3D100%26section%3Dfooter%26text%3DSame%2520Team,%2520Same%2520Dream!%26fontSize%3D25" width="100%" />
-</div>
