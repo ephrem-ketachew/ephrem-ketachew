@@ -21,13 +21,23 @@
 
 ## 👤 About Me
 
-Hi, I'm Ephrem. I am a Software Engineer, a student at Bahir Dar University, and an Africa to Silicon Valley (A2SV) Fellow. For me, software engineering is about bridging the gap between deep algorithmic theory and scalable, real-world product architecture.
+**Ephrem Ketachew | Software Engineer & A2SV Fellow**
 
-My foundation is built on rigorous, high-volume problem-solving. With over 1,200 algorithms conquered (ranking in the global Top 0.2% on LeetCode) and a typing speed clearing 100+ WPM, I prioritize raw efficiency and clean logic. I don't just want the code to work; I want it to be optimal.
+*Bridging the gap between algorithmic theory and real-world scalability.*
 
-When it comes to building, I am a full-stack developer with a strong focus on backend systems. My core stack revolves around **TypeScript, Node.js, Express, React, Next.js, and Python**. Whether I am designing a complex REST API, managing scalable databases, or leveraging AI-augmented workflows to rapidly prototype ideas (which recently helped my team secure 1st place at a Cursor hackathon), I focus on delivering production-grade software.
+> **LeetCode:** Top 0.2% Global (1,200+ solved) <br>
+> **Stack:** TypeScript, Node.js, React, Next.js, Python <br>
+> **Recent Win:** 1st Place Cursor Hackathon
 
-When I step away from the IDE, I'm usually appreciating a different kind of masterful architecture—rewatching *The Dark Knight*, *Dune*, or *Game of Thrones*.
+Code should be optimal. <br>
+Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
+
+<br>
+
+## 🧠 Algorithmic Output
+<a href="https://leetcode.com/ephrem-ketachew">
+  <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne" alt="LeetCode Stats" width="400" />
+</a>
 
 <br><br>
 
