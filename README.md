@@ -19,18 +19,15 @@
 
 ---
 
-## ⚙️ Profile: The Architect
+## 👤 About Me
 
-> *I don't rely on motivation; I rely on a non-negotiable protocol: **consistency**. What started as a rejection email was weaponized into an unbroken 321-day coding streak, a global Top 0.2% rank, and securing the #1 Top Performer spot in the A2SV G7C Cohort.*
+Hi, I'm Ephrem. I am a Software Engineer, a student at Bahir Dar University, and an Africa to Silicon Valley (A2SV) Fellow. For me, software engineering is about bridging the gap between deep algorithmic theory and scalable, real-world product architecture.
 
-<br>
+My foundation is built on rigorous, high-volume problem-solving. With over 1,200 algorithms conquered (ranking in the global Top 0.2% on LeetCode) and a typing speed clearing 100+ WPM, I prioritize raw efficiency and clean logic. I don't just want the code to work; I want it to be optimal.
 
-### 🛠️ Core Directives
+When it comes to building, I am a full-stack developer with a strong focus on backend systems. My core stack revolves around **TypeScript, Node.js, Express, React, Next.js, and Python**. Whether I am designing a complex REST API, managing scalable databases, or leveraging AI-augmented workflows to rapidly prototype ideas (which recently helped my team secure 1st place at a Cursor hackathon), I focus on delivering production-grade software.
 
-- ⚡ **[ THE ENGINE ]** ➔ Node.js, Express, NestJS, MongoDB, PostgreSQL.
-- 🚀 **[ THE OUTPUT ]** ➔ 130+ RESTful endpoints, multi-tier KYC pipelines, and full product ownership from Figma to Cloud.
-- 🛡️ **[ THE PROTOCOL ]** ➔ 1,200+ algorithms solved. Volume beats luck.
-- ⚔️ **[ THE CRUCIBLE ]** ➔ Iron sharpens iron. Surrounded by brilliance, elevating the standard.
+When I step away from the IDE, I'm usually appreciating a different kind of masterful architecture—rewatching *The Dark Knight*, *Dune*, or *Game of Thrones*.
 
 <br><br>
 
