@@ -66,14 +66,13 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
 <br>
 
 <div align="center">
-  
   <a href="https://leetcode.com/ephrem-ketachew">
     <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats & Streak" width="48%" />
   </a>
-
   <a href="https://github.com/ephrem-ketachew/data-structure-and-algorithms">
-    <img src="https://github-readme-stats.demolab.com/api/pin/?username=ephrem-ketachew&repo=data-structure-and-algorithms&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DSA Repository" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ephrem-ketachew&repo=data-structure-and-algorithms&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DSA Repository" width="48%" />
   </a>
+</div>
 
 </div>
 
