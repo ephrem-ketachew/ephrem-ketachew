@@ -1,17 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=150&section=header&animation=twinkling" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ephrem!+%F0%9F%91%8B;Full-Stack+MERN+Developer;Backend+Architect;Top+0.2%25+LeetCoder" alt="Typing SVG" />
-
-  <p><em>"Building scalable systems and solving complex algorithms with unwavering consistency."</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=2000&pause=2000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=THE+WARM-UP+IS+OVER;A2SV+G7C+TOP+PERFORMER;1,209+ALGORITHMS+CONQUERED" alt="Subtitle" />
   
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=70&duration=4000&pause=3000&color=E94560&center=true&vCenter=true&width=800&height=130&lines=EPHREM+KETACHEW;THE+ARCHITECT" alt="Main Title" />
+  
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1500&pause=2500&color=FFA116&center=true&vCenter=true&width=600&height=40&lines=>_SYSTEM_STATUS:+ONLINE;>_MERN_STACK:+DEPLOYED;>_GLOBAL_RANK:+TOP+0.2%25;>_PROTOCOL:+CONSISTENCY" alt="Terminal" />
+
+  <br><br>
+
   <p>
-    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" /></a>
+    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117&color=21262D" alt="LinkedIn" /></a>
+    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=21262D" alt="Email" /></a>
+    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=LeetCode&logoColor=FFA116&labelColor=0D1117&color=21262D" alt="LeetCode" /></a>
+    <a href="https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853&labelColor=0D1117&color=21262D" alt="CV" /></a>
   </p>
+
 </div>
+
+<br>
 
 ---
 
