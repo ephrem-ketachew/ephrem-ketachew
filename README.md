@@ -53,6 +53,34 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
 
 ---
 
+## ⚔️ The Crucible: Algorithmic Warfare
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=2000&color=FFA116&center=true&vCenter=true&width=800&height=50&lines=>_GLOBAL_RANK:+Top+0.2%25+(Out+of+5M++Engineers);>_CONSISTENCY:+321-Day+Unbroken+Execution+Streak;>_THOUGHT_PROCESS:+O(n)+Time,+O(1)+Space,+Optimal+Substructure;>_TOPICS_MASTERED:+Dynamic+Programming,+Graph+Theory,+Tries;>_1,209+ALGORITHMS+CONQUERED" alt="Elite Thought Process" />
+
+</div>
+
+> *"To build FAANG-caliber architecture, you need a FAANG-caliber foundation. I don't just solve problems; I dissect them. Every solution is optimized for time and space complexity, driven by a relentless, daily protocol."*
+
+<br>
+
+<div align="center">
+  
+  <a href="https://leetcode.com/ephrem-ketachew">
+    <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats & Streak" width="48%" />
+  </a>
+
+  <a href="https://github.com/ephrem-ketachew/data-structure-and-algorithms">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=ephrem-ketachew&repo=data-structure-and-algorithms&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DSA Repository" width="48%" />
+  </a>
+
+</div>
+
+<br>
+
+---
+
 ### 📊 The Metrics
 
 <div align="center">
