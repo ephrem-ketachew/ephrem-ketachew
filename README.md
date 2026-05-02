@@ -6,13 +6,6 @@
 
   <br>
 
-  <p>
-    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117&color=21262D" alt="LinkedIn" /></a>
-    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=21262D" alt="Email" /></a>
-    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=LeetCode&logoColor=FFA116&labelColor=0D1117&color=21262D" alt="LeetCode" /></a>
-    <a href="https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853&labelColor=0D1117&color=21262D" alt="CV" /></a>
-  </p>
-
 </div>
 
   <p>
