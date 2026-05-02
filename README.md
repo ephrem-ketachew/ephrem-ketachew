@@ -87,6 +87,14 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
   
   <br><br>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg" width="100%">
+  </picture>
+
+   <br><br>
+
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 
