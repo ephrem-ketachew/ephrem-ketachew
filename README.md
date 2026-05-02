@@ -33,10 +33,10 @@ I am a Software Engineer based in Bahir Dar, Ethiopia. I treat engineering like 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,html,css" />
 
 **🖥️ Backend & Databases**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,supabase,firebase" />
 
 **🖼️ Frontend & Mobile**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
 
 **🔧 Tools & Core**<br>
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
