@@ -1,142 +1,58 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Dev" alt="Typing SVG" />
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Ephrem%20Ketachew&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=e94560" />
+
+  <h2>Full-Stack MERN Developer & Backend Architect ⚔️</h2>
+  <p><em>"Building scalable systems and solving complex algorithms with unwavering consistency."</em></p>
   
-  <h1><strong><span style="color:#00BFFF">Hello there, I'm <span style="color:#FF4500">Ephrem Ketachew</span></span></strong></h1>
-  <h3 style="color:#FFD700;">Software Engineering Student | Full-Stack Web Developer</h3>
-
-  <p style="font-size: 16px; color: #D3D3D3; line-height: 1.6;">
-        I'm passionate about crafting efficient, scalable, and intuitive applications for both web and mobile platforms.
-        With a robust foundation in <b>software development principles, data structures, and algorithms</b>, I design and build
-        digital solutions that drive impact and innovation.
-    </p>
-
-  <br>
-
+  <p>
+    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  </p>
 </div>
 
+---
+
+### 🚀 About Me
+
+I am a Software Engineer based in Bahir Dar, Ethiopia, specializing in backend architecture and full-stack MERN development. I treat engineering like a discipline, relying on volume, consistency, and rigorous execution rather than just motivation. 
+
+- 🏆 **Top Performer:** #1 in the A2SV | Africa to Silicon Valley G7C Cohort (100% Attendance & Consistency).
+- 🧠 **Algorithmic Mastery:** Top 0.2% globally on LeetCode (1,200+ problems solved, 320+ day streak).
+- 💻 **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), TypeScript, Python, and Flutter.
+- 🎓 **Academics:** BSc. Software Engineering @ Bahir Dar University (3.96/4.0 CGPA).
+- 🍿 **Off-screen:** When I'm not architecting APIs or grinding algorithms, I'm probably rewatching *The Dark Knight*, *Dune*, or *Game of Thrones*.
 
 ---
 
-
-## 🛠️ Tech Stack - Languages and Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" title="Pygame" width="70" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" title="Data Structures & Algorithms" width="40" height="40"/>&nbsp;
-</div>
-
-
-
----
-
-## 🚀 Areas of Expertise
-
-* **Design & Development:**
-    * **UI/UX Design:** Crafting intuitive and polished user experiences with Figma.
-    * **Full-Stack Web & Mobile Development:** Applying technologies like **Node.js, Flutter, and MongoDB** in real-world projects, including an active internship.
-    * **Cross-Platform Mobile Development:** Specializing in building robust applications with **Flutter**.
-
-* **Technical Foundations:**
-    * **Data Structures & Algorithms:** Continuously honing skills in algorithmic problem solving and competitive programming.
-    * **Web Optimization:** Focused on implementing performance best practices for efficient web applications.
-    * **Game Development:** Practical experience in Python game development using Pygame.
-
-## 🧠 Tech Stack
-
-### 🔣 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🖼️ Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-6699CC?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🖥️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 📚 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2C8EBB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typing%20Skills-00A5E0?style=for-the-badge&logo=monkeytype&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
+### ⚙️ Core Arsenal
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=radical&hide_border=true" alt="Ephrem's GitHub Stats" width="48%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ephrem-ketachew&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
-
-  ![Ephrem's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ephrem-ketachew&theme=tokyo-night)
-
-
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,dart" alt="Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,mysql,git,github,figma,postman,vscode" alt="Tools" />
 </div>
 
 ---
 
+### 📊 The Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="48%" />
+</div>
+
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: [ephremketachew@gmail.com](mailto:ephremketachew@gmail.com)
-- 💼 LinkedIn: [Ephrem Ketachew](https://www.linkedin.com/in/ephrem-ketachew)
-- 🧑‍🧬 LeetCode: [ephrem-ketachew](https://leetcode.com/u/ephrem-ketachew/)
-- 📄 [My CV](https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing)
----
-
-Thanks for stopping by! Let's collaborate and build something amazing. 🚀
-
+<div align="center">
+  <i>"It's not who I am underneath, but what I do that defines me." — Batman</i>
+</div>
