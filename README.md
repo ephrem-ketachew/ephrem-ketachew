@@ -21,7 +21,7 @@
 
 ## 👤 About Me
 
-**Ephrem Ketachew | Software Engineer & A2SV Fellow**
+**Ephrem Ketachew | Software Engineer & A2SV Fellow | MERN**
 
 *Bridging the gap between algorithmic theory and real-world scalability.*
 
@@ -32,12 +32,6 @@
 Code should be optimal. <br>
 Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
 
-<br>
-
-## 🧠 Algorithmic Output
-<a href="https://leetcode.com/ephrem-ketachew">
-  <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne" alt="LeetCode Stats" width="400" />
-</a>
 
 <br><br>
 
