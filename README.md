@@ -1,10 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=EPHREM%20KETACHEW&fontSize=70&fontAlign=50&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20ARCHITECT&descAlign=50&descAlignY=65&descSize=22&animation=fadeIn" alt="Ephrem Ketachew" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16213e&height=220&section=header&text=EPHREM%20KETACHEW&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=E94560" alt="Ephrem Ketachew" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&duration=3000&pause=1500&color=E94560&center=true&vCenter=true&width=800&height=40&lines=Rejection+is+just+a+data+point.;Initiating+total+system+upgrade.;793+LeetCode+problems+later...;Top+0.2%25+Globally.;The+warm-up+is+over." alt="Origin Story" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Ephrem!+%F0%9F%91%8B;Backend+Architect+%26+Full-Stack+MERN;Top+0.2%25+Globally+on+LeetCode;A2SV+G7C+%231+Top+Performer;Weaponizing+rejection+into+relentless+consistency" alt="Typing Intro" />
 
-  <br><br>
+  <br>
+
+  <p>
+    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117&color=21262D" alt="LinkedIn" /></a>
+    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=21262D" alt="Email" /></a>
+    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=LeetCode&logoColor=FFA116&labelColor=0D1117&color=21262D" alt="LeetCode" /></a>
+    <a href="https://drive.google.com/file/d/1Kd3vF46WTsIAmnjV2Hgc5HXRHqWQG2Pt/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853&labelColor=0D1117&color=21262D" alt="CV" /></a>
+  </p>
+
+</div>
 
   <p>
     <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117&color=21262D" alt="LinkedIn" /></a>
