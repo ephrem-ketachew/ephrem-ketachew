@@ -90,7 +90,20 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 
-  <br><br>
+  <br>
+
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://ghstats.dev/api/card?username=ephrem-ketachew&theme=tokyonight" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=tokyonight&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
 </div>
