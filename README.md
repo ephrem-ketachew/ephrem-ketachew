@@ -19,28 +19,20 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">🚀 The Architect</h3>
-      <p align="left">
-        I am a Software Engineer based in Bahir Dar, Ethiopia. I treat engineering like a discipline, relying on volume, consistency, and rigorous execution rather than just motivation.
-      </p>
-      <ul align="left">
-        <li>🏆 <b>Top Performer:</b> #1 in the A2SV G7C Cohort.</li>
-        <li>💻 <b>Full-Stack:</b> Architecting MERN & Flutter systems.</li>
-        <li>🎨 <b>Product Owner:</b> Designing to deployment (110+ Figma screens to cloud).</li>
-        <li>🍿 <b>Off-screen:</b> Rewatching <i>The Dark Knight</i>, <i>Dune</i>, or <i>Game of Thrones</i>.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <h3 align="center">🧠 Algorithmic Mastery</h3>
-      <a href="https://leetcode.com/ephrem-ketachew">
-        <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+## ⚙️ Profile: The Architect
+
+> *I don't rely on motivation; I rely on a non-negotiable protocol: **consistency**. What started as a rejection email was weaponized into an unbroken 321-day coding streak, a global Top 0.2% rank, and securing the #1 Top Performer spot in the A2SV G7C Cohort.*
+
+<br>
+
+### 🛠️ Core Directives
+
+- ⚡ **[ THE ENGINE ]** ➔ Node.js, Express, NestJS, MongoDB, PostgreSQL.
+- 🚀 **[ THE OUTPUT ]** ➔ 130+ RESTful endpoints, multi-tier KYC pipelines, and full product ownership from Figma to Cloud.
+- 🛡️ **[ THE PROTOCOL ]** ➔ 1,200+ algorithms solved. Volume beats luck.
+- ⚔️ **[ THE CRUCIBLE ]** ➔ Iron sharpens iron. Surrounded by brilliance, elevating the standard.
+
+<br><br>
 
 ---
 
