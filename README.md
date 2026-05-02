@@ -29,8 +29,6 @@ I am a Software Engineer based in Bahir Dar, Ethiopia. I treat engineering like 
 
 ### 🧠 Technical Arsenal
 
-*(Note: Using uniform `skillicons` here instead of mixed shields creates a much cleaner, blockier aesthetic that matches dark mode perfectly)*
-
 **🔣 Languages**<br>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,html,css" />
 
