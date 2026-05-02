@@ -15,15 +15,28 @@
 
 ---
 
-### 🚀 About Me & Expertise
-
-I am a Software Engineer based in Bahir Dar, Ethiopia. I treat engineering like a discipline, relying on volume, consistency, and rigorous execution. When I'm not architecting APIs or grinding algorithms, I'm probably rewatching *The Dark Knight*, *Dune*, or *Game of Thrones*.
-
-* 🏆 **Top Performer:** #1 in the A2SV G7C Cohort (100% Attendance & Consistency).
-* 🧠 **Algorithmic Mastery:** Top 0.2% globally on LeetCode (1,200+ problems solved, 320+ day streak).
-* 💻 **Full-Stack Web & Mobile:** Building robust applications using the MERN stack and Flutter.
-* 🎨 **UI/UX Design:** Crafting intuitive user experiences with Figma (e.g., 110+ screen prototypes).
-* 🎮 **Game Development:** Practical experience in Python game development using Pygame.
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">🚀 The Architect</h3>
+      <p align="left">
+        I am a Software Engineer based in Bahir Dar, Ethiopia. I treat engineering like a discipline, relying on volume, consistency, and rigorous execution rather than just motivation.
+      </p>
+      <ul align="left">
+        <li>🏆 <b>Top Performer:</b> #1 in the A2SV G7C Cohort.</li>
+        <li>💻 <b>Full-Stack:</b> Architecting MERN & Flutter systems.</li>
+        <li>🎨 <b>Product Owner:</b> Designing to deployment (110+ Figma screens to cloud).</li>
+        <li>🍿 <b>Off-screen:</b> Rewatching <i>The Dark Knight</i>, <i>Dune</i>, or <i>Game of Thrones</i>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <h3 align="center">🧠 Algorithmic Mastery</h3>
+      <a href="https://leetcode.com/ephrem-ketachew">
+        <img src="https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
