@@ -1,14 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=2000&pause=2000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=THE+WARM-UP+IS+OVER;A2SV+G7C+TOP+PERFORMER;1,209+ALGORITHMS+CONQUERED" alt="Subtitle" />
-  
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=EPHREM%20KETACHEW&fontSize=70&fontAlign=50&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20ARCHITECT&descAlign=50&descAlignY=65&descSize=22&animation=fadeIn" alt="Ephrem Ketachew" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=70&duration=4000&pause=3000&color=E94560&center=true&vCenter=true&width=800&height=130&lines=EPHREM+KETACHEW;THE+ARCHITECT" alt="Main Title" />
-  
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1500&pause=2500&color=FFA116&center=true&vCenter=true&width=600&height=40&lines=>_SYSTEM_STATUS:+ONLINE;>_MERN_STACK:+DEPLOYED;>_GLOBAL_RANK:+TOP+0.2%25;>_PROTOCOL:+CONSISTENCY" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=22&duration=3000&pause=1500&color=E94560&center=true&vCenter=true&width=800&height=40&lines=Rejection+is+just+a+data+point.;Initiating+total+system+upgrade.;793+LeetCode+problems+later...;Top+0.2%25+Globally.;The+warm-up+is+over." alt="Origin Story" />
 
   <br><br>
 
@@ -21,7 +15,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
