@@ -1,14 +1,10 @@
-name: Generate Snake Animation
+name: Generate Metrics & Snake
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# THIS IS THE FIX: Explicitly grant the bot permission to push the image
 permissions:
   contents: write
 
@@ -28,7 +24,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # 3. Push the newly generated SVG to the "output" branch
+      # 3. Download the LeetCode SVG directly into the same folder
+      - name: Fetch Live LeetCode Stats
+        run: |
+          curl -L "https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" -o dist/leetcode.svg
+          
+      # 4. Push BOTH images to the "output" branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
