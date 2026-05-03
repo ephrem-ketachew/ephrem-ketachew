@@ -24,9 +24,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # 3. Download the LeetCode SVG directly into the same folder
+      # 3. Create folder & Download the LeetCode SVG
       - name: Fetch Live LeetCode Stats
         run: |
+          mkdir -p dist
           curl -L "https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" -o dist/leetcode.svg
           
       # 4. Push BOTH images to the "output" branch
