@@ -15,7 +15,13 @@ jobs:
       # 1. Checkout the repository
       - uses: actions/checkout@v3
 
-      # 2. Generate the snake SVG
+      # 2. Create folder & Download the LeetCode SVG FIRST
+      - name: Fetch Live LeetCode Stats
+        run: |
+          mkdir -p dist
+          curl -L "https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" -o dist/leetcode.svg
+
+      # 3. Generate the snake SVG SECOND
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,12 +29,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # 3. Create folder & Download the LeetCode SVG
-      - name: Fetch Live LeetCode Stats
-        run: |
-          mkdir -p dist
-          curl -L "https://leetcard.jacoblin.cool/ephrem-ketachew?theme=dark&font=Syne&ext=activity" -o dist/leetcode.svg
           
       # 4. Push BOTH images to the "output" branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
