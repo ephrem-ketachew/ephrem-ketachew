@@ -96,14 +96,14 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
    <br><br>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" width="48%" />
 
   <br>
 
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://ghstats.dev/api/card?username=ephrem-ketachew&theme=tokyonight" width="100%" alt="GitHub Stats" />
+        <img src="https://ghstats.dev/api/card?username=ephrem-ketachew&theme=tokyonight&cache=clear" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
