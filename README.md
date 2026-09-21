@@ -100,6 +100,17 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
 
   <br>
 
+  <div align="center">
+  <a href="https://commit-history.com/ephrem-ketachew">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ephrem-ketachew?theme=dark" />
+      <img alt="ephrem-ketachew's commit history" src="https://commit-history.com/embed/ephrem-ketachew" />
+    </picture>
+  </a>
+</div>
+
+<br>
+
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center">
