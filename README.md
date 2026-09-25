@@ -17,8 +17,6 @@
   [![committers.top badge](https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg)](https://user-badge.committers.top/ethiopia/ephrem-ketachew)
 
 
-</div>
-
 <br><br>
 
 ---
