@@ -13,6 +13,11 @@
     <a href="https://drive.google.com/file/d/1Ugg2YNProWmEXwEjq5ovLlNWv5gYnRgR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
   </p>
 
+  [![committers.top badge](https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg)](https://user-badge.committers.top/ethiopia/ephrem-ketachew)
+
+
+<br>
+
 </div>
 
 <br><br>
@@ -108,11 +113,6 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
     </picture>
   </a>
 </div>
-
-<br>
-
-[![committers.top badge](https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg)](https://user-badge.committers.top/ethiopia/ephrem-ketachew)
-
 
 <br>
 
