@@ -13,11 +13,14 @@
     <a href="https://drive.google.com/file/d/1Ugg2YNProWmEXwEjq5ovLlNWv5gYnRgR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
   </p>
 
+  <br>
+
+  <a href="https://user-badge.committers.top/ethiopia/ephrem-ketachew">
+    <img src="https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg" alt="Committers Top Ethiopia" />
+  </a>
+
 </div>
-<br>
-<div>
-[![committers.top badge](https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg)](https://user-badge.committers.top/ethiopia/ephrem-ketachew)
-</div>
+
 <br><br>
 
 ---
@@ -26,15 +29,14 @@
 
 **Ephrem Ketachew | Software Engineer & A2SV Fellow | MERN**
 
-*Bridging the gap between algorithmic theory and real-world scalability.*
+_Bridging the gap between algorithmic theory and real-world scalability._
 
 > **LeetCode:** Top 0.2% Global (1,200+ solved) <br>
 > **Stack:** TypeScript, Node.js, React, Next.js, Python <br>
 > **Recent Win:** 1st Place Cursor Hackathon
 
 Code should be optimal. <br>
-Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
-
+Movies should be epic (_Dune_, _The Dark Knight_, _GoT_).
 
 <br><br>
 
@@ -64,7 +66,7 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
 
 </div>
 
-> *"To build FAANG-caliber architecture, you need a FAANG-caliber foundation. I don't just solve problems; I dissect them. Every solution is optimized for time and space complexity, driven by a relentless, daily protocol."*
+> _"To build FAANG-caliber architecture, you need a FAANG-caliber foundation. I don't just solve problems; I dissect them. Every solution is optimized for time and space complexity, driven by a relentless, daily protocol."_
 
 <br>
 
@@ -96,7 +98,7 @@ Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg" width="100%">
   </picture>
 
-   <br><br>
+<br><br>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%" />
